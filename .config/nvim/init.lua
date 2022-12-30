@@ -1,0 +1,5 @@
+require("lima.plugins-setup")
+require("lima.core.options")
+require("lima.core.keymaps")
+require("lima.core.colorscheme")
+require("lima.plugins.comment")
