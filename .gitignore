@@ -39,9 +39,12 @@ Public
 .emulator_console_auth_token
 .gitconfig
 .lesshst
-.node_rpl_history
+.node_repl_history
 .viminfo
 .yarnrc
 .zprofile
 .zprofile.bak
 .zsh_history
+.DS_Store
+.zcompdump-Guilherme’s MacBook Air-5.8
+.zcompdump-Guilherme’s MacBook Air-5.8.1
